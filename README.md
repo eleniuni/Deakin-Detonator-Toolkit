@@ -1,6 +1,6 @@
 # 🧰 Deakin Detonator Toolkit
 
-This repo houses the new version of the Deakin Detonator Toolkit application built with Modern Web technologies, shipping as a native desktop application
+This repo houses the new version of the Deakin Detonator Toolkit application built with Modern Web technologies, shipping as a native desktop application.
 
 -   UI built with [Mantine](https://mantine.dev), [ReactJS](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 -   Shipped as desktop client via [Tauri](https://tauri.app/).
